@@ -41,7 +41,7 @@ module.exports = {
         var stack = [];
 
         function callback()
-            var now = +new Date();
+            var now = new Date().getTime();
             if (now - last > delay) {
                 for (var i = 0; i < stack.length; i++) {
                     stack[i]();

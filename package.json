@@ -1,6 +1,6 @@
 {
   "name": "occurrence",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Handel browser events",
   "main": "occurrence.js",
   "scripts": {
