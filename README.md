@@ -1,5 +1,5 @@
-# Lend
-Global functions.
+# Occurrence
+Handel browser events.
 
 ___
 ## Under development
@@ -12,16 +12,16 @@ ___
 Require first.
 
 ```
-var lend = require("lend");
+var occurence = require("occurence");
 ```
 
 ___
 ## Test
 
-You can check this functions at the [Test Page](https://tonicdev.com/npm/lend)
+You can check this functions at the [Test Page](https://tonicdev.com/npm/occurence)
 
 ```
-console.log(lend.test())
+console.log(occurence.test())
 ```
 
 ___
