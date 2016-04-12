@@ -1,0 +1,30 @@
+{
+  "name": "occurence",
+  "version": "0.0.1",
+  "description": "Handel browser events",
+  "main": "occurence.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernysans/occurence.git"
+  },
+  "keywords": [
+    "occurence",
+    "erny",
+    "sans",
+    "js",
+    "javascript",
+    "window",
+    "events"
+  ],
+  "author": "Erny Sans <c@erny.co> (http://erny.co)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ernysans/occurence/issues"
+  },
+  "homepage": "https://github.com/ernysans/occurence#readme",
+  "devDependencies": {
+  }
+}
