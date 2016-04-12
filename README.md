@@ -1,5 +1,5 @@
 # Occurrence
-Handel browser events.
+Handle browser events.
 
 ___
 ## Under development
@@ -12,16 +12,16 @@ ___
 Require first.
 
 ```
-var occurence = require("occurence");
+var occurrence = require("occurrence");
 ```
 
 ___
 ## Test
 
-You can check this functions at the [Test Page](https://tonicdev.com/npm/occurence)
+You can check this functions at the [Test Page](https://tonicdev.com/npm/occurrence)
 
 ```
-console.log(occurence.test())
+occurrence.test()
 ```
 
 ___

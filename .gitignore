@@ -1,8 +1,6 @@
 # Disable big data content from git
-/vendor/
 /node_modules/
 npm-debug.log
-gulpfile.js
 
 # Allow this to hide the enviroment to github
 .env
@@ -10,20 +8,8 @@ gulpfile.js
 # Ignore Mac DS_Store files
 .DS_Store
 
-# Ignore Public Assets
-.sass-cache
-/public/build/
-/public/build/*
-/public/build/*/*
-/public/css/
-/public/css/*
-/public/css/*/*
-/public/js/
-/public/js/*
-/public/js/*/*
-/public/img/u/*
-/public/img/b/*
-/public/img/a/*
+# Ignore folders
+/build/
 
 # Ignore bower_components
 # bower_components

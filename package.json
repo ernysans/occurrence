@@ -1,10 +1,10 @@
 {
   "name": "occurrence",
-  "version": "0.0.4",
-  "description": "Handel browser events",
+  "version": "0.0.5",
+  "description": "Handle browser events.",
   "main": "occurrence.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "make test"
   },
   "repository": {
     "type": "git",
@@ -17,14 +17,19 @@
     "js",
     "javascript",
     "window",
-    "events"
+    "responsive"
   ],
-  "author": "Erny Sans <c@erny.co> (http://erny.co)",
+  "author": "Erny Sans (http://erny.co)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ernysans/occurrence/issues"
   },
   "homepage": "https://github.com/ernysans/occurrence#readme",
   "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-beautify": "^2.0.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify": "0.0.7",
+    "gulp-umd": "^0.2.0"
   }
 }
